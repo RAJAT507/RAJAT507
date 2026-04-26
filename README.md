@@ -17,14 +17,14 @@
   <a href="https://github.com/RAJAT507">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://drive.google.com/">
-    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=googledrive">
-  </a>
+  <a href="https://drive.google.com/file/d/1Y_Qj_laZufuja_dLfQZi3lCO1emj0cyw/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=googledrive">
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ✔ Java Full Stack Developer (JSP, Servlet, MySQL)  
 ✔ MCA Graduate (CGPA: 7.64)  
@@ -32,14 +32,14 @@
 ✔ Strong in **OOPs, DSA, REST APIs & DBMS**  
 ✔ Passionate about **Generative AI & System Design**  
 
-🎯 **Goal:** Software Engineer in product-based company  
+ **Goal:** Software Engineer in product-based company  
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🏢 Java Web Developer Intern — JK Innovative Pvt. Ltd.
-📅 Jan 2025 – Jun 2025  
+###  Java Web Developer Intern — JK Innovative Pvt. Ltd.
+ Jan 2025 – Jun 2025  
 
 - Built scalable modules using **Java, Servlets, JDBC (MVC)**
 - Implemented **secure authentication & session management**
@@ -48,8 +48,8 @@
 
 ---
 
-### 🌐 Full Stack Intern — Unified Mentor
-📅 Sep 2024 – Oct 2024  
+###  Full Stack Intern — Unified Mentor
+ Sep 2024 – Oct 2024  
 
 - Developed responsive UI using **HTML, CSS, JavaScript**
 - Worked on backend integration & DB connectivity
@@ -57,17 +57,17 @@
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-## 🧠 KLAP – Kids Learning & Assessment Program
+##  KLAP – Kids Learning & Assessment Program
 
 **KLAP** is a full-stack learning platform designed to provide structured education, testing, and performance tracking for children.
 
 ---
 
-### ✨ Key Features
+###  Key Features
 
-#### 👨‍👩‍👧 User Module
+####  User Module
 - Secure login & registration  
 - Category-based learning  
 - Text-to-speech learning support  
@@ -75,11 +75,11 @@
 - Auto-save answers  
 - Auto-submit on tab switch/reload  
 - Instant results & feedback  
-- 🎁 Earn & redeem **Supercoins**
+- Earn & redeem **Supercoins**
 
 ---
 
-#### 🛠 Admin Module
+#### Admin Module
 - Manage categories & content  
 - Question CRUD operations  
 - User performance monitoring  
@@ -88,7 +88,7 @@
 
 ---
 
-### ⚙ Core Functionalities
+### Core Functionalities
 - Role-based access (Admin/User)
 - Session-based authentication
 - Online test integrity system
@@ -97,7 +97,7 @@
 
 ---
 
-### 🔐 Security Features
+###  Security Features
 - Session management
 - Restricted navigation during tests
 - Auto-submit on exit/reload
@@ -105,7 +105,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
@@ -124,21 +124,21 @@
 
 ---
 
-## 📂 Other Projects
+##  Other Projects
 
-### 🚗 Rental Car Management System
+###  Rental Car Management System
 - Booking system with authentication
 - Admin dashboard & booking history
 - MySQL integrated backend
 
-### 🎉 Event Planner Web Portal
+###  Event Planner Web Portal
 - Event booking platform
 - Dynamic admin panel
 - User & service management
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAJAT507&show_icons=true&theme=tokyonight"/>
@@ -147,7 +147,7 @@
 
 ---
 
-## 📈 Currently
+##  Currently
 
 | Learning        | Building       | Goal                  |
 |---------------|---------------|----------------------|
@@ -156,7 +156,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Python Programming — Udemy  
 - Communication Skills — TCS iON  
 - Java Internship Certificate  
