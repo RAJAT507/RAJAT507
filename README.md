@@ -44,7 +44,7 @@
 - Built scalable modules using **Java, Servlets, JDBC (MVC)**
 - Implemented **secure authentication & session management**
 - Developed full **CRUD operations with MySQL**
-- Optimized SQL queries → ⚡ Improved performance by ~20%
+- Optimized SQL queries →  Improved performance by ~20%
 
 ---
 
@@ -151,7 +151,7 @@
 
 | Learning        | Building       | Goal                  |
 |---------------|---------------|----------------------|
-| DSA           | KLAP Project  | Software Engineer 🚀 |
+| DSA           | KLAP Project  | Software Engineer |
 | System Design | E-Commerce    | Strong Problem Solving |
 
 ---
@@ -163,4 +163,4 @@
 
 ---
 
-<p align="center">🔥 Building real-world scalable applications</p>
+<p align="center"> Building real-world scalable applications</p>
