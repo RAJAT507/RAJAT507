@@ -106,23 +106,42 @@
 ---
 
 ##  Tech Stack
-
-### 🔹 Backend
+### 🔹 Programming Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+
+### 🔹 Backend Development
 ![JSP](https://img.shields.io/badge/JSP-blue?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/Servlet-grey?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-darkblue?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 
-### 🔹 Frontend
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+### 🔹 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
 
 ### 🔹 Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
----
+### 🔹 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-green?style=for-the-badge)
+
+### 🔹 Core Concepts
+![OOP](https://img.shields.io/badge/OOPs-important?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures-blueviolet?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
+
+### 🔹 Emerging Skills
+![Generative AI](https://img.shields.io/badge/GenerativeAI-black?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-green?style=for-the-badge)
 
 ##  Other Projects
 
