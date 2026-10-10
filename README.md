@@ -1,160 +1,294 @@
-# Rajat Warhade
 
-### Java Full Stack Developer | Backend Development | SQL
+<!-- =========================================================
+     RAJAT WARHADE | PREMIUM GITHUB PROFILE
+     Theme: Midnight Navy + Electric Blue
+     ========================================================= -->
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,45:1D4ED8,100:38BDF8&text=RAJAT%20WARHADE&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom\&height=240\&color=0:020617,45:1D4ED8,100:38BDF8\&text=RAJAT%20WARHADE\&fontSize=46\&fontColor=FFFFFF\&fontAlignY=40\&desc=JAVA%20FULL%20STACK%20DEVELOPER\&descSize=17\&descAlignY=60\&animation=fadeIn)" width="100%" alt="Rajat Warhade premium blue and black banner"/> \</p>
+<div align="center">
 
-\<p align="center">   \<a href="[https://github.com/RAJAT507](https://github.com/RAJAT507)">     \<img src="[https://img.shields.io/badge/GitHub-RAJAT507-020617?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-RAJAT507-020617?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a>   \<a href="[https://www.linkedin.com/in/rajatwarhade/](https://www.linkedin.com/in/rajatwarhade/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<img src="[https://img.shields.io/badge/Focus-Java%20Development-0284C7?style=for-the-badge](https://img.shields.io/badge/Focus-Java%20Development-0284C7?style=for-the-badge)" alt="Java development"/> \</p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,45:1D4ED8,100:38BDF8&text=RAJAT%20WARHADE&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Rajat Warhade - Java Full Stack Developer"/>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Java+Web+Applications;Learning+Spring+Boot+%26+Hibernate;Designing+Database-Driven+Solutions;Turning+Ideas+Into+Working+Projects](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=19\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+Java+Web+Applications;Learning+Spring+Boot+%26+Hibernate;Designing+Database-Driven+Solutions;Turning+Ideas+Into+Working+Projects)" alt="Animated developer introduction"/> \</p>
+  <h3>Java Full Stack Developer | Backend Development | SQL</h3>
+
+  <p>
+    Building practical web applications with Java, databases and modern web technologies.
+  </p>
+
+  <a href="https://github.com/RAJAT507">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajatwarhade">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:warhaderajat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+%7C+JDBC+%7C+Servlets+%7C+JSP;Building+Database-Driven+Applications;Exploring+Hibernate+%26+Spring+Boot;Learning.+Building.+Improving." alt="Animated developer tagline"/>
+
+  <br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=RAJAT507&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
+  ![Primary Language](https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Focus](https://img.shields.io/badge/Focus-Backend%20Development-0284C7?style=flat-square)
+
+</div>
 
 ---
 
-## `01` — ABOUT ME
+## Navigation
 
-Hi, I'm **Rajat Warhade**, an MCA graduate and aspiring Java Full Stack Developer from Maharashtra, India.
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#technical-toolkit">Tech Stack</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#education">Education</a> •
+  <a href="#connect-with-me">Contact</a>
+</p>
 
-I enjoy building practical web applications, implementing backend business logic, and working with relational databases to solve real-world problems.
+---
+
+## 01 — About Me
+
+Hello! I'm **Rajat Warhade**, an MCA graduate from Maharashtra, India, focused on Java Full Stack and backend development.
+
+I enjoy translating requirements into working web applications, implementing backend business logic, and connecting applications to relational databases.
 
 - ☕ **Backend:** Java, JDBC, Servlets, JSP, Hibernate
 - 🎨 **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - 🗄️ **Database:** MySQL, SQL, DBMS
 - ⚙️ **Tools:** Git, GitHub, Maven, NetBeans, Apache Tomcat
 - 🤖 **Exploring:** Spring Boot, REST APIs and AI integration
-- 🎯 **Career focus:** Java Full Stack Developer / Java Backend Developer
+- 🎯 **Career focus:** Java Developer | Java Backend Developer | Java Full Stack Developer
 
 ---
 
-## `02` — TECH STACK
+## 02 — Technical Toolkit
 
 ### Programming Languages
 
-\<p>   \<img src="[https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F89820](https://img.shields.io/badge/Java-020617?style=for-the-badge\&logo=openjdk\&logoColor=F89820)" alt="Java"/>   \<img src="[https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)" alt="JavaScript"/>   \<img src="[https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8](https://img.shields.io/badge/SQL-020617?style=for-the-badge\&logo=mysql\&logoColor=38BDF8)" alt="SQL"/>   \<img src="[https://img.shields.io/badge/Python_Basics-020617?style=for-the-badge&logo=python&logoColor=FACC15](https://img.shields.io/badge/Python_Basics-020617?style=for-the-badge\&logo=python\&logoColor=FACC15)" alt="Python basics"/> \</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python%20Basics-020617?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python Basics"/>
+</p>
 
 ### Backend Development
 
-\<p>   \<img src="[https://img.shields.io/badge/JDBC-172554?style=for-the-badge](https://img.shields.io/badge/JDBC-172554?style=for-the-badge)" alt="JDBC"/>   \<img src="[https://img.shields.io/badge/Servlets-172554?style=for-the-badge](https://img.shields.io/badge/Servlets-172554?style=for-the-badge)" alt="Servlets"/>   \<img src="[https://img.shields.io/badge/JSP-172554?style=for-the-badge](https://img.shields.io/badge/JSP-172554?style=for-the-badge)" alt="JSP"/>   \<img src="[https://img.shields.io/badge/Hibernate-172554?style=for-the-badge&logo=hibernate&logoColor=white](https://img.shields.io/badge/Hibernate-172554?style=for-the-badge\&logo=hibernate\&logoColor=white)" alt="Hibernate"/>   \<img src="[https://img.shields.io/badge/Spring_Boot-Learning-166534?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-Learning-166534?style=for-the-badge\&logo=springboot\&logoColor=white)" alt="Spring Boot learning"/> \</p>
+<p>
+  <img src="https://img.shields.io/badge/JDBC-172554?style=for-the-badge" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Servlets-172554?style=for-the-badge" alt="Servlets"/>
+  <img src="https://img.shields.io/badge/JSP-172554?style=for-the-badge" alt="JSP"/>
+  <img src="https://img.shields.io/badge/Hibernate-172554?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-166534?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot - Learning"/>
+</p>
 
 ### Frontend Development
 
-\<p>   \<img src="[https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26](https://img.shields.io/badge/HTML5-020617?style=for-the-badge\&logo=html5\&logoColor=E34F26)" alt="HTML5"/>   \<img src="[https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6](https://img.shields.io/badge/CSS3-020617?style=for-the-badge\&logo=css3\&logoColor=1572B6)" alt="CSS3"/>   \<img src="[https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)" alt="JavaScript"/>   \<img src="[https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=9B59B6](https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge\&logo=bootstrap\&logoColor=9B59B6)" alt="Bootstrap"/> \</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=9B59B6" alt="Bootstrap"/>
+</p>
 
-### Database & Tools
+### Database & Developer Tools
 
-\<p>   \<img src="[https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8](https://img.shields.io/badge/MySQL-020617?style=for-the-badge\&logo=mysql\&logoColor=38BDF8)" alt="MySQL"/>   \<img src="[https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032](https://img.shields.io/badge/Git-020617?style=for-the-badge\&logo=git\&logoColor=F05032)" alt="Git"/>   \<img src="[https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \<img src="[https://img.shields.io/badge/Maven-020617?style=for-the-badge&logo=apachemaven&logoColor=C71A36](https://img.shields.io/badge/Maven-020617?style=for-the-badge\&logo=apachemaven\&logoColor=C71A36)" alt="Maven"/>   \<img src="[https://img.shields.io/badge/Apache_Tomcat-020617?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75](https://img.shields.io/badge/Apache_Tomcat-020617?style=for-the-badge\&logo=apachetomcat\&logoColor=F8DC75)" alt="Apache Tomcat"/> \</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Maven-020617?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-020617?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75" alt="Apache Tomcat"/>
+  <img src="https://img.shields.io/badge/NetBeans-020617?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>
+</p>
 
-**Core concepts:** OOP · Collections · JDBC CRUD · DAO Pattern · MVC Architecture · DBMS · Exception Handling · SDLC
+**Core concepts:** OOP · Collections · Exception Handling · JDBC CRUD · DAO Pattern · MVC Architecture · DBMS · SQL Joins · SDLC
 
 ---
 
-## `03` — FEATURED PROJECTS
+## 03 — Featured Projects
 
 ### 🔷 01. KLAP — Kids Learning & Assessment Program
 
-**My flagship project**
+**Flagship project | Educational web application**
 
-An interactive educational web application designed for children aged 2–7, combining quizzes, assessments, progress tracking and rewards.
+An interactive learning and assessment platform designed for children aged 2–7, combining quiz-based learning, performance tracking and a reward system.
 
 **Key features**
 
 - ⏱️ Timer-based quizzes with automatic submission
 - 🎲 Randomized questions and section-wise scoring
-- 📊 Progress charts and quiz performance tracking
+- 📊 Quiz performance and progress tracking
 - 🪙 Supercoin-based reward system
 - 👨‍👩‍👧 Parent dashboard
-- 🛠️ Admin tools for managing categories, content and questions
+- 🛠️ Admin tools for managing categories, learning content and questions
 
-**Technology:** Java · JSP · Servlets · MySQL · HTML · CSS · JavaScript · Bootstrap
+**Technology stack**
 
-\<p>   \<img src="[https://img.shields.io/badge/Project-Educational%20Web%20App-1D4ED8?style=flat-square](https://img.shields.io/badge/Project-Educational%20Web%20App-1D4ED8?style=flat-square)" alt="Educational web app"/>   \<img src="[https://img.shields.io/badge/Focus-Assessment%20%26%20Rewards-0EA5E9?style=flat-square](https://img.shields.io/badge/Focus-Assessment%20%26%20Rewards-0EA5E9?style=flat-square)" alt="Assessment and rewards"/> \</p>
+`Java` `JSP` `Servlets` `MySQL` `HTML5` `CSS3` `JavaScript` `Bootstrap`
 
-🔗 [**View KLAP repository**](https://github.com/RAJAT507?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Domain-Education-1D4ED8?style=flat-square" alt="Education"/>
+  <img src="https://img.shields.io/badge/Focus-Quiz%20%26%20Assessment-0284C7?style=flat-square" alt="Quiz and assessment"/>
+  <img src="https://img.shields.io/badge/Focus-Reward%20System-7C3AED?style=flat-square" alt="Reward system"/>
+</p>
+
+🔗 **[View KLAP Repository](https://github.com/RAJAT507/Kids-Learning-And-Assessment-Program)**
+
+---
 
 ### 🔷 02. EduManage — School Management System
 
-A web application designed to organize school administration and academic information.
+A school management web application designed to organize student records and academic operations.
 
 **Key modules**
 
 - Admin and student dashboards
-- Student management and profiles
+- Student profiles and student management
 - Attendance and examination results
 - Fee management
 - Teacher, student, parent and subject mapping
 
-**Technology:** Java · JSP · Servlets · Java Beans · DAO · MySQL · Bootstrap · Maven · Apache Tomcat
+**Technology stack**
 
-🔗 [**View repositories**](https://github.com/RAJAT507?tab=repositories)
+`Java` `JSP` `Servlets` `Java Beans` `DAO` `MySQL` `Bootstrap` `Maven` `Apache Tomcat`
+
+🔗 **[Explore GitHub Repositories](https://github.com/RAJAT507?tab=repositories)**
+
+---
 
 ### 🔷 03. Event Planner Web Portal
 
 A web application for event planning and management of event-related services.
 
 - User registration and login
-- Venue, service and food management
+- Venue, food and service management
 - Event budget planning
 - Booking management
 - Administrative controls
 
-**Technology:** Java · JSP · Servlets · JDBC · MySQL · Bootstrap
+**Technology:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `Bootstrap`
 
-🔗 [**View repositories**](https://github.com/RAJAT507?tab=repositories)
+🔗 **[Explore GitHub Repositories](https://github.com/RAJAT507?tab=repositories)**
+
+---
 
 ### 🔷 04. Rental Car Management System
 
-A project focused on organizing rental-car information and supporting rental-related operations.
+A project focused on managing rental-car information and rental-related operations.
 
-**Focus:** Java programming · Database operations · CRUD functionality
+**Focus areas:** Java programming · Database integration · CRUD operations
 
-🔗 [**View repositories**](https://github.com/RAJAT507?tab=repositories)
+🔗 **[Explore GitHub Repositories](https://github.com/RAJAT507?tab=repositories)**
+
+---
 
 ### 🔷 05. E-Commerce / Kirana Store Application
 
-A web application project focused on online product browsing and database-driven store operations.
+A web application project focused on product browsing and database-driven store operations.
 
-**Focus:** Web development · Database integration · Product management
+**Focus areas:** Web development · Product management · Database integration
 
-🔗 [**View repositories**](https://github.com/RAJAT507?tab=repositories)
+🔗 **[Explore GitHub Repositories](https://github.com/RAJAT507?tab=repositories)**
 
-> Replace the repository-list links above with each project's direct URL when available, and ensure each description matches the actual implementation.
-
----
-
-## `04` — GITHUB ANALYTICS
-
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=RAJAT507&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github](https://github-readme-stats.vercel.app/api?username=RAJAT507\&show_icons=true\&hide_border=true\&bg_color=020617\&title_color=60A5FA\&icon_color=38BDF8\&text_color=E2E8F0\&rank_icon=github)" width="49%" alt="GitHub statistics"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAT507&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E2E8F0](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAT507\&layout=compact\&hide_border=true\&bg_color=020617\&title_color=60A5FA\&text_color=E2E8F0)" width="49%" alt="Most used languages"/> \</p>
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com/?user=RAJAT507&hide_border=true&background=020617&ring=3B82F6&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8](https://streak-stats.demolab.com/?user=RAJAT507\&hide_border=true\&background=020617\&ring=3B82F6\&fire=38BDF8\&currStreakLabel=60A5FA\&sideLabels=CBD5E1\&dates=94A3B8)" width="70%" alt="GitHub contribution streak"/> \</p>
+> Replace generic repository links with the actual project URLs when available. Keep project features consistent with the code that is implemented.
 
 ---
 
-## `05` — EDUCATION
+## 04 — Development Workflow
 
-🎓 **Master of Computer Applications (MCA)**\
-Amravati University · 2023–2025\
-CGPA: **7.64**
+```text
+Understand Requirements
+         ↓
+Design Application Structure
+         ↓
+Build the User Interface
+         ↓
+Implement Java Business Logic
+         ↓
+Integrate MySQL Database
+         ↓
+Test, Debug and Improve
+```
 
-🎓 **Bachelor of Science in Computer Science**\
-Lokmanya Tilak Mahavidyalaya, Wani · 2018–2021\
+I focus on writing understandable code, organizing application layers, handling data reliably and improving projects through practical implementation.
+
+---
+
+## 05 — Current Learning Roadmap
+
+- [x] Core Java fundamentals
+- [x] JDBC and database connectivity
+- [x] Servlet and JSP-based web development
+- [ ] Advanced SQL and database design
+- [ ] Hibernate and ORM concepts
+- [ ] Spring Boot and REST API development
+- [ ] Unit testing and application debugging
+- [ ] Practical AI integration into web applications
+
+*These checkboxes represent my learning focus, not formal certifications.*
+
+---
+
+## 06 — GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJAT507&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" height="175" alt="GitHub statistics"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAT507&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E2E8F0" height="175" alt="Most used programming languages"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=RAJAT507&hide_border=true&background=020617&ring=3B82F6&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="75%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 07 — Education
+
+### 🎓 Master of Computer Applications (MCA)
+
+**Amravati University** · 2023–2025  
+CGPA: **7.64 / 10**
+
+### 🎓 Bachelor of Science in Computer Science
+
+**Lokmanya Tilak Mahavidyalaya, Wani** · 2018–2021  
 Percentage: **75.25%**
 
 ---
 
-## `06` — CURRENT LEARNING GOALS
+## 08 — Connect With Me
 
-- Strengthening Core Java and problem-solving
-- Improving SQL queries, joins and database design
-- Building applications with Hibernate and Spring Boot
-- Learning REST API development and integration
-- Improving software architecture and code organization
-- Exploring practical AI integration in web applications
+I'm interested in opportunities where I can contribute to Java development, learn from experienced engineers and build useful software.
 
----
+<div align="center">
 
-## `07` — LET'S CONNECT
+  <a href="https://github.com/RAJAT507">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-\<p align="center">   \<a href="[https://github.com/RAJAT507](https://github.com/RAJAT507)">     \<img src="[https://img.shields.io/badge/GitHub-RAJAT507-020617?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-RAJAT507-020617?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a>   \<a href="[https://www.linkedin.com/in/rajatwarhade/](https://www.linkedin.com/in/rajatwarhade/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a> \</p>
+  <a href="https://www.linkedin.com/in/rajatwarhade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:1D4ED8,100:020617&section=footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:38BDF8,50:1D4ED8,100:020617\&section=footer)" width="100%" alt="Blue and black footer"/> \</p>
+  <a href="mailto:warhaderajat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-\<p align="center">   \<strong>Build with purpose. Learn every day. Keep improving.\</strong> \</p>                      aur jyada enhance kro isko
+  <br/><br/>
+
+  <strong>Build with purpose. Learn every day. Keep improving.</strong>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:1D4ED8,100:020617&section=footer" width="100%" alt="Blue gradient footer"/>
+
+</div>
